@@ -5,6 +5,7 @@ FPDC (Fusion 360 PCB Data Converter) is a Python application designed to convert
 The application processes Bill of Materials (BOM) and Pick and Place (PnP) files, matches components between them, and exports the data in a format suitable for JLCPCB's assembly service.
 
 ![FPDC Application Screenshot](doc/gui.png)
+[Schreenshot of GUI](doc/gui.png)
 
 ## Features
 
